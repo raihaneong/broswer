@@ -1,2 +1,2 @@
-# browser-home
+# broswer
 An on-startup website for browser
